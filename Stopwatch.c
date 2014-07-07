@@ -1,5 +1,4 @@
-ES-Project-2
-============
+
 
 //Program in C for a stopwatch with an 8051 microcontroller
 
